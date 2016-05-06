@@ -1,0 +1,27 @@
+
+.flexbox{
+	display: flex;
+}
+
+.ul{
+	margin:0;
+	padding:0;
+	list-style-type: none;
+}
+.collage{
+	max-width: 50vw;
+	max-height:150px
+}
+.icon{
+	font-size: 3em;
+}
+
+.fixed{
+	position:fixed;
+	top:10px;
+	left:0px;
+	width:100%;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+}

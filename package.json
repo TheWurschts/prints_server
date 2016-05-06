@@ -1,0 +1,22 @@
+{
+  "name": "prints_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "bcrypt": "^0.8.6",
+    "fs-extra": "^0.30.0",
+    "hapi": "^13.3.0",
+    "hapi-auth-basic": "^4.1.0",
+    "inert": "^3.2.1",
+    "request": "^2.72.0",
+    "request-json": "^0.5.6"
+  }
+}

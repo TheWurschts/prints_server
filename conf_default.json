@@ -1,0 +1,13 @@
+{
+  "filePath": "/home/pi/photobooth/photos",
+  "users": {
+    "martin": {
+      "username": "martin",
+      "password": "",
+      "name": "Martin",
+      "id": "1",
+      "pushoveruser": "",
+      "pushovertoken": ""
+    }
+  }
+}
